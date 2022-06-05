@@ -8,7 +8,6 @@ pytest
 evidently
 gunicorn
 pathlib
-sys
 argparse
 io
 urllib

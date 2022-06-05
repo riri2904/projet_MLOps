@@ -14,4 +14,4 @@ jobs:
           python-version: "3.x"
 
       - name: Execute tests
-        run: pytest tests
+        run: pytest

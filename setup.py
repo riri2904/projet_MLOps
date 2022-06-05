@@ -17,6 +17,6 @@ setup(
     url="",
     python_requires=">=3.7",
     packages=find_packages(),
-    package_dir={"": "src"},
+    package_dir={"src.data_processing": "src"},
     install_requires=[required_packages],
 )

@@ -4,6 +4,8 @@ on : push
 
 jobs:
   test:
+    runs-on: ubuntu-latest
+    
     steps:
 
       - name: Set up Python

@@ -17,5 +17,6 @@ setup(
     url="",
     python_requires=">=3.7",
     packages=find_namespace_packages(),
+    package_dir={"": "src"},
     install_requires=[required_packages],
 )

@@ -9,7 +9,6 @@ evidently
 gunicorn
 pathlib
 argparse
-io
 urllib
 zipfile
 yaml

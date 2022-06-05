@@ -16,7 +16,7 @@ setup(
     author_email="ariles.djenaoussine@gmail.com",
     url="",
     python_requires=">=3.7",
-    packages=find_namespace_packages(),
+    packages=find_packages(),
     package_dir={"": "src"},
     install_requires=[required_packages],
 )

@@ -9,9 +9,3 @@ evidently
 gunicorn
 pathlib
 argparse
-zipfile
-scipy
-random
-pprint
-joblib
-json

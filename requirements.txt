@@ -1,6 +1,6 @@
 numpy
 pandas
-sklearn
+sklearn==0.24.2
 mlflow
 black
 isort
@@ -8,3 +8,16 @@ flask
 pytest
 evidently
 gunicorn
+pathlib
+sys
+argparse
+io
+urllib
+zipfile
+yaml
+scipy
+os
+random
+pprint
+joblib
+json

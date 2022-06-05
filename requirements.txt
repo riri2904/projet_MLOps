@@ -9,11 +9,8 @@ evidently
 gunicorn
 pathlib
 argparse
-urllib
 zipfile
-yaml
 scipy
-os
 random
 pprint
 joblib

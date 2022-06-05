@@ -13,12 +13,6 @@ jobs:
         uses: actions/setup-python@v2
         with:
           python-version: "3.9"
-        
-        
-      - name: pathfile
-        run: |
-          echo "$GITHUB_PATH"
-          
           
       
       - name: Install dependencies

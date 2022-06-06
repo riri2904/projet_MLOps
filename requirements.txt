@@ -9,4 +9,4 @@ evidently
 gunicorn
 pathlib
 argparse
-sklearn==0.24.2
+sklearn==0.20
